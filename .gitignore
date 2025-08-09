@@ -24,6 +24,7 @@
 /tmp/
 /tools/
 
+
 # subdirs (/subdir/...)
 /packaging/arch/PKGBUILD
 /packaging/debian/changelog
